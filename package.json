@@ -21,8 +21,6 @@
     "eslint": "latest",
     "eslint-config-next": "latest",
     "mini-css-extract-plugin": "^2.7.6",
-    "postcss": "latest",
-    "tailwindcss": "latest",
     "typescript": "latest"
   }
 }
